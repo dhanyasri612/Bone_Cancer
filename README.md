@@ -33,10 +33,7 @@ The interface allows users to upload an image and instantly get AI-driven predic
 
 ## 🖼️ UI Preview
 
-| Upload Screen | Result Screen |
-|----------------|----------------|
-| ![Upload Page](https://raw.githubusercontent.com/dhanyasri612/Bone_Cancer/main/images/Screenshot%202025-11-09%20at%204.07.28%E2%80%AFPM.png) | ![Result Page](https://raw.githubusercontent.com/dhanyasri612/Bone_Cancer/main/images/Screenshot%202025-11-09%20at%204.19.58%E2%80%AFPM.png) |
-| ![Result Page](https://raw.githubusercontent.com/dhanyasri612/Bone_Cancer/main/images/Screenshot%202025-11-09%20at%204.20.31%E2%80%AFPM.png) |
+![image_alt](https://github.com/dhanyasri612/Bone_Cancer/blob/main/images/im.png?raw=true)
 
 
 *(You can replace these with real screenshots later.)*
