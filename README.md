@@ -37,7 +37,7 @@ The interface allows users to upload an image and instantly get AI-driven predic
 ![image_alt](https://github.com/dhanyasri612/Bone_Cancer/blob/main/images/im1.png?raw=true)
 ![image_alt](https://github.com/dhanyasri612/Bone_Cancer/blob/main/images/im2.png?raw=true)
 
-*(You can replace these with real screenshots later.)*
+
 
 ---
 
